@@ -8,7 +8,8 @@ Output: 2
 
 
 Solution:
-Time: O(n*n)
+Time: O(n)
+Space: O(n)
 ***********************************************************************************************************************/
 
 private void TrappingRainWater(int[] arr, int n)
